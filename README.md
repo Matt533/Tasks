@@ -1,3 +1,3 @@
 # ToDoApp
  Reactj.js App w/FantaCSS & LocalStorage
-# https://tasktodoappbym.netlify.app/
+# Hosted: https://tasktodoappbym.netlify.app/
